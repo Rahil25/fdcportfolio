@@ -1,23 +1,23 @@
 {
-    "name": "Bharat Agarwal",
+    "name": "Rahil Sha",
     "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
-    "intro": "Some introduction of yours and it can be as much as large",
+    "intro": "Second Year Student Computer Science Engineering Chandigarh University",
     "skills": [{
-            "title": "Skill 1",
-            "rating": "90"
+            "title": "HTML",
+            "rating": "82"
         },
         {
-            "title": "Skill 2",
-            "rating": "97"
+            "title": "CSS",
+            "rating": "75"
         },
         {
-            "title": "Skill 3",
-            "rating": "85"
+            "title": "JavaScript",
+            "rating": "50"
         }
     ],
     "contact": {
         "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "phone": "8288983969",
+        "email": "rahilsha2000@gmail.com"
     }
 }
